@@ -87,10 +87,3 @@ if (17 < currentHour) {
     $("#17").removeClass("past future");
 };
 
-// add text on click of task boxes
-$(".task-group").on("click", "p", function() {
-    var text = $(this)
-        .text()
-        .trim();
-    console.log(text);
-});
