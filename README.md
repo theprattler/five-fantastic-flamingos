@@ -12,7 +12,7 @@ To provide a daily work task organizer broken into hour blocks that allows text-
 * Moment.js
 
 ## Deployed Link
-https://theprattler.github.io/five-fantasic-flamingos/
+https://theprattler.github.io/five-fantastic-flamingos/
 
 ## App Preview
 ![Screenshot of the Work Day Scheduler](./Develop/work-day-scheduler.png)
